@@ -12,31 +12,6 @@ var loaded = false;
 
 const colors = [
 {
-  texture: 'img/wood_.jpg',
-  size: [2, 2, 2],
-  shininess: 60 },
-
-{
-  texture: 'img/fabric_.jpg',
-  size: [4, 4, 4],
-  shininess: 0 },
-
-{
-  texture: 'img/pattern_.jpg',
-  size: [8, 8, 8],
-  shininess: 10 },
-
-{
-  texture: 'img/denim_.jpg',
-  size: [3, 3, 3],
-  shininess: 0 },
-
-{
-  texture: 'img/quilt_.jpg',
-  size: [6, 6, 6],
-  shininess: 0 },
-
-{
   color: '131417' },
 
 {
